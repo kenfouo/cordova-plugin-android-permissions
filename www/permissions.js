@@ -103,8 +103,6 @@ function Permissions() {
     this.READ_INPUT_STATE = 'android.permission.READ_INPUT_STATE';
     this.READ_LOGS = 'android.permission.READ_LOGS';
     this.READ_MEDIA_AUDIO = 'android.permission.READ_MEDIA_AUDIO';
-    this.READ_MEDIA_IMAGES = 'android.permission.READ_MEDIA_IMAGES';
-    this.READ_MEDIA_VIDEO = 'android.permission.READ_MEDIA_VIDEO';
     this.READ_PHONE_STATE = 'android.permission.READ_PHONE_STATE';
     this.READ_PROFILE = 'android.permission.READ_PROFILE';
     this.READ_SMS = 'android.permission.READ_SMS';
