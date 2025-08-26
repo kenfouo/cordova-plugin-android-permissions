@@ -104,8 +104,6 @@ export interface Permissions {
   READ_INPUT_STATE: "android.permission.READ_INPUT_STATE";
   READ_LOGS: "android.permission.READ_LOGS";
   READ_MEDIA_AUDIO: "android.permission.READ_MEDIA_AUDIO";
-  READ_MEDIA_IMAGES: "android.permission.READ_MEDIA_IMAGES";
-  READ_MEDIA_VIDEO: "android.permission.READ_MEDIA_VIDEO";
   READ_PHONE_STATE: "android.permission.READ_PHONE_STATE";
   READ_PROFILE: "android.permission.READ_PROFILE";
   READ_SMS: "android.permission.READ_SMS";
